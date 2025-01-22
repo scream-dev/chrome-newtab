@@ -1,2 +1,2 @@
-# chrome-newtab
-Chrome New Tab Anywhere
+# Chrome New Tab
+## Use: scream-dev.ru/chrome
